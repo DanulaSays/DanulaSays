@@ -2,7 +2,10 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing...
-- 📫 How to reach me libed822
+- 📫 How to reach me:
+- 🗣️ Discord: saysyonko
+- 🗣️ Telegram: Says_Yonko
+- 🗣️ Email: danilsaenko0503@gmail.com
 
 <!---
 DanulaSays/DanulaSays is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
